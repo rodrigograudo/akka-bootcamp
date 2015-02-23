@@ -28,7 +28,6 @@ namespace WinTail
             Console.ForegroundColor = color;
             Console.WriteLine(alert);
             Console.ResetColor();
-
         }
     }
 }
